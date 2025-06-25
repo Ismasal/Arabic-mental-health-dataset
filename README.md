@@ -4,7 +4,7 @@ Welcome to the **Arabic Mental Health Dataset** repository! This repository cont
 ---
 ## About the Dataset  
 The dataset was obtained using pairs of questions and answers from a mix of synthatic and human sources.
-It is suitable for NlP tasks such as Language Modeling.
+It is suitable for NLP tasks such as Language Modeling.
 
 ---
 ## Features
